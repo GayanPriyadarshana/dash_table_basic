@@ -87,8 +87,7 @@ def update_bar(all_rows_data, selected_row_indices, selected_rows_names, selecte
     print("Complete data of active cell: {}".format(active_cell))
     print("Complete data of all selected cells: {}".format(selected_cell))
     
-    
-    
+    #adding some comment to see how to publish and merge to the main brach
     
     
     dff = pd.DataFrame(all_rows_data)
